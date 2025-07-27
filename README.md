@@ -1,7 +1,4 @@
 ✅ README.md
-markdown
-Copy
-Edit
 # Heart Disease Prediction Using Decision Tree Classifier
 
 ## Author
