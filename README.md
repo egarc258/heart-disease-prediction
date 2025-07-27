@@ -1,4 +1,3 @@
-✅ README.md
 # Heart Disease Prediction Using Decision Tree Classifier
 
 ## Author
